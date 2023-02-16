@@ -1,3 +1,3 @@
-rgname   = "ABSDemo2"
+rgname   = "ABSDemo3"
 location = "East US"
-sname    = "absdemostorageacc2"
+sname    = "absdemostorageacc3"
